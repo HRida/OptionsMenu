@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/A"
+          android:title="Change to 1st image"/>
+    <!-- android:icon="@drawable/a"-->
+    <item android:id="@+id/B"
+        android:title="Change to 2nd image"/>
+    <!-- android:icon="@drawable/a"-->
+    <item android:id="@+id/C"
+        android:title="Change to 3rd image"/>
+    <!-- android:icon="@drawable/a"-->
+    <item android:id="@+id/D"
+        android:title="Change to 4th image"/>
+    <!-- android:icon="@drawable/a"-->
+    <item android:id="@+id/E"
+        android:title="Change to 5th image"/>
+    <!-- android:icon="@drawable/a"-->
+</menu>
